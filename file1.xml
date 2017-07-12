@@ -1,0 +1,23 @@
+<hall>
+  <game>
+  <id>1000</id>
+  <name>Roulette</name>
+  <level>2</level>
+  <startcredit>1290</startcredit>
+  <endcredit>500</endcredit>
+  </game>
+  <game>
+  <id>1001</id>
+  <name>SuperHot40</name>
+  <level>4</level>
+  <startcredit>1500</startcredit>
+  <endcredit>400</endcredit>
+  </game>
+  <game>
+  <id>1002</id>
+  <name>RollAndDice</name>
+  <level>17</level>
+  <startcredit>2000</startcredit>
+  <endcredit>700</endcredit>
+  </game>
+</hall>  

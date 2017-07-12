@@ -1,0 +1,23 @@
+<hall>
+  <game>
+  <id>1005</id>
+  <name>Poker</name>
+  <level>7</level>
+  <startcredit>120</startcredit>
+  <endcredit>50</endcredit>
+  </game>
+  <game>
+  <id>1009</id>
+  <name>KingKongCash</name>
+  <level>10</level>
+  <startcredit>500</startcredit>
+  <endcredit>100</endcredit>
+  </game>
+  <game>
+  <id>1011</id>
+  <name>flamingHot40</name>
+  <level>12</level>
+  <startcredit>2050</startcredit>
+  <endcredit>750</endcredit>
+  </game>
+</hall>  

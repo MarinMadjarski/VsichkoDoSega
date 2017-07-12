@@ -1,0 +1,23 @@
+<hall>
+  <game>
+  <id>1020</id>
+  <name>CaramelHot</name>
+  <level>5</level>
+  <startcredit>1800</startcredit>
+  <endcredit>600</endcredit>
+  </game>
+  <game>
+  <id>1001</id>
+  <name>RiseOfRa</name>
+  <level>11</level>
+  <startcredit>990</startcredit>
+  <endcredit>430</endcredit>
+  </game>
+  <game>
+  <id>1008</id>
+  <name>ZodiacWheel</name>
+  <level>27</level>
+  <startcredit>3000</startcredit>
+  <endcredit>1200</endcredit>
+  </game>
+</hall>  

@@ -1,0 +1,38 @@
+<catalog>
+<item>
+  <name> tv < /names>
+  <brand>Panasonic < /brand>
+  <model>HPP12</model>
+  <quantity>15</quantity>
+  <priceItem>1000</priceItem>
+  </item>
+ 
+<item>
+  <name> tv < /names>
+  <brand>Sony< /brand>
+  <model>HPP2343</model>
+  <quantity>40</quantity>
+  <priceItem>900</priceItem>
+  </item>
+<item>
+  <name> tv < /names>
+  <brand>LG< /brand>
+  <model>HP34</model>
+  <quantity>66</quantity>
+  <priceItem>700</priceItem>
+  </item>
+<item>
+  <name> tv < /names>
+  <brand>Samsung < /brand>
+  <model>b13</model>
+  <quantity>35</quantity>
+  <priceItem>870</priceItem>
+  </item>
+<item>
+  <name> tv < /names>
+  <brand>Crown < /brand>
+  <model>m23</model>
+  <quantity>49</quantity>
+  <priceItem>400</priceItem>
+</item>
+</catalog>
